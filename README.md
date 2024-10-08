@@ -1,5 +1,5 @@
 <div align="center">
-<h2> ITS NOT JUST A NAME ITS A BRAND, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> HALLO WORLD , 𝐟𝐞𝐥𝐥𝐨𝐰 </>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
 
 <div align="center" width="50">
